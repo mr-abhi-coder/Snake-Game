@@ -1,2 +1,2 @@
 # Snake-Game
-Java Desktop Application
+This game is developed in Java language.
